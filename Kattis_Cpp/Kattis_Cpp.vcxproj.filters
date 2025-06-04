@@ -13,19 +13,16 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Source Files\Solutions">
-      <UniqueIdentifier>{7cf778b7-c0ef-498a-b0b3-1a083d38ce8b}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\Continous_Median\Continous_Median.cpp">
-      <Filter>Source Files\Solutions</Filter>
+      <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="..\Höfundaleit\Höfundaleit.cpp">
-      <Filter>Source Files\Solutions</Filter>
+      <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Ullen_Dullen_Doff_2.cpp">
-      <Filter>Source Files\Solutions</Filter>
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
