@@ -123,8 +123,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\Continous_Median\Continous_Median.cpp" />
-    <ClCompile Include="..\Höfundaleit\Höfundaleit.cpp" />
+    <ClCompile Include="Continous_Median.cpp" />
+    <ClCompile Include="Höfundaleit.cpp" />
     <ClCompile Include="Ullen_Dullen_Doff_2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
