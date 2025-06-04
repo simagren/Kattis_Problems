@@ -24,5 +24,8 @@
     <ClCompile Include="Continous_Median.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Firefly.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

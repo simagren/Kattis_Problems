@@ -25,7 +25,7 @@ static void Run() {
 		std::cout << n << "\n";
 }
 
-int main() {
-	Run();
-}
+//int main() {
+//	Run();
+//}
 
